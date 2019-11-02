@@ -1,0 +1,10 @@
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\bin\Debug\XLA_Project6_Fix.exe.config
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\bin\Debug\XLA_Project6_Fix.exe
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\bin\Debug\XLA_Project6_Fix.pdb
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.csprojAssemblyReference.cache
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.Form1.resources
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.exe
+C:\Users\hoang\OneDrive\Máy tính\Image Processing\C#\hw3\XLA_Project6_Fix\obj\Debug\XLA_Project6_Fix.pdb
